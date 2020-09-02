@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: green;
+}
+
+p {
+    color: orange;
+}
+
+p {
+    color: blue;
+}
+
+#first-p-tag {
+    height: 50px;
+    width: 1000px;
+    margin: auto;
+}
+
+.im-the-favorite {
+    /* code goes here */
+}
+
+main section p {
+    /* code goes here */
+}
+
